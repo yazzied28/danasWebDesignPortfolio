@@ -20,7 +20,7 @@
 
         <!-- Logo -->
         <div id="logo">
-            <span class="image avatar48"><img src="images/finalLogo.png" alt="" /></span>
+            <span class="image avatar48"><img src="images/LEGO2.ico" alt="" /></span>
             <h1 id="title">Dana Yazzie</h1>
             <p>Junior Web Developer</p>
         </div>
