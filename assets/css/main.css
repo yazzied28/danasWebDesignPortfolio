@@ -1556,7 +1556,9 @@ body {
 	font-size: 19pt;
 	font-weight: 300;
 	line-height: 1.75em;
-	color: white;
+	color: black;
+	background-image: url(/assets/css/images/whatpic.jpg);
+	background-size: 100%;
 }
 
 body.is-loading * {
@@ -1580,7 +1582,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
-	color: whitesmoke;
+	color: black;
 	line-height: 1.5em;
 }
 
@@ -1757,6 +1759,7 @@ ul.default li {
 
 ul.icons {
 	cursor: default;
+	padding-bottom: 20px;
 }
 
 ul.icons li {
@@ -1941,7 +1944,7 @@ button:active,
 }
 
 .item header {
-	background: #fff;
+	background: rgba(0, 0, 0, 0.03);
 	margin: 0;
 	padding: 1em 0 1em 0;
 	font-size: 0.8em;
@@ -2220,7 +2223,7 @@ button:active,
 	}
 
 	#main section.cover {
-		padding: 4em 0;
+		padding: 3.5em 0;
 	}
 
 }
