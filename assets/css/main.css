@@ -1556,7 +1556,7 @@ body {
 	font-size: 19pt;
 	font-weight: 300;
 	line-height: 1.75em;
-	color: #888;
+	color: white;
 }
 
 body.is-loading * {
@@ -1580,7 +1580,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
-	color: #666;
+	color: whitesmoke;
 	line-height: 1.5em;
 }
 
@@ -1608,6 +1608,7 @@ h2.alt strong {
 
 h3 {
 	font-size: 1.5em;
+	color: black;
 }
 
 header {
@@ -2100,6 +2101,7 @@ button:active,
 #footer .copyright {
 	cursor: default;
 	margin: 0;
+	color: #1C2022;
 }
 
 #footer .copyright li {
@@ -2161,8 +2163,8 @@ button:active,
 }
 /
 #main > section.one {
-	background-color: #81918E;
-	background-image: url("/assets/css/images/rain.jpg");
+
+	background-image: url("/images/pic02.jpg");
 
 }
 
@@ -2545,4 +2547,13 @@ button:active,
 
 .tran {
 	color: rgba(0, 0, 0, 0.5);
+}
+
+.item {
+	color: black;
+}
+
+section#top.one.dark.color {
+
+	background-image: url(/assets/css/images/rain.jpg);
 }
