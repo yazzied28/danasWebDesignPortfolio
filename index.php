@@ -57,7 +57,7 @@
             <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
             <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
             <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-            <li><a href="#" class="icon fa-insta"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
             <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
         </ul>
 
@@ -94,48 +94,48 @@
                 <h2>Portfolio</h2>
             </header>
 
-            <p>Portfolio Coming Soon...</p>
+            <p>Small Projects. More in the future, keep checking the website and you'll soon be amazed. </p>
 
             <div class="row">
                 <div class="4u 12u$(mobile)">
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/firstSite.JPG" alt="" /></a>
                         <header>
-                            <h3>Ipsum Feugiat</h3>
+                            <h3>First Site Design </h3>
                         </header>
                     </article>
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/basics.JPG" alt="" /></a>
                         <header>
-                            <h3>Rhoncus Semper</h3>
+                            <h3>Basic HTML Design</h3>
                         </header>
                     </article>
                 </div>
                 <div class="4u 12u$(mobile)">
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/restaurant.JPG" alt="" /></a>
                         <header>
-                            <h3>Magna Nullam</h3>
+                            <h3>HTML/CSS Design</h3>
                         </header>
                     </article>
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/Javascript.JPG" alt="" /></a>
                         <header>
-                            <h3>Natoque Vitae</h3>
+                            <h3>Javascript Design</h3>
                         </header>
                     </article>
                 </div>
                 <div class="4u$ 12u$(mobile)">
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/quiz.JPG" alt="" /></a>
                         <header>
-                            <h3>Dolor Penatibus</h3>
+                            <h3>Javascript Design</h3>
                         </header>
                     </article>
                     <article class="item">
-                        <a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+                        <a href="#" class="image fit"><img src="images/java2.JPG" alt="" /></a>
                         <header>
-                            <h3>Orci Convallis</h3>
+                            <h3>PHP/Javascript Design</h3>
                         </header>
                     </article>
                 </div>
@@ -151,16 +151,25 @@
             <header>
                 <h2>About Me</h2>
             </header>
+            <div class="about">
 
-            <a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+            <a href="#" class="image featured"><img src="images/about.JPG" alt="" /></a>
 
-            <p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
-                ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
-                laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem
-                parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper
-                dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec
-                ornare iaculis.</p>
-
+            <p>Ya'at'eeh, shi ei Dana Yazzie yinishye. Hello, my name is Dana. Im currently a Navajo student take a coding class.
+                I grew up in Carson, NM located about 22 miles from Bloomfield, NM. Growing up I wanted to learn everything i
+                could so i absorbed from my dad and my elders as best as i could; leading me to great storytelling and learning
+                from this place we call world. I then graduated from Bloomfield High School in 2011. Ive attended UNM for a year
+                hoping to major in Biology but i decided to change my major to Environmental Science. Ive been helping my church as well since then.
+                I've been to alot of places; until now i have settled in Gallup, NM.</br>
+                One day i received a call from my priest who mentioned a totally new thing
+                to me which was computer coding. I took the deal and decided to go for it becuase at
+                that time it seemed interesting and also i wanted to learn something new. Since Day 1
+                of this 8-week bootcamp course with the Cultivating Coders program in Farmington, NM it
+                has been an awesome experience for me as well as the others. Im glad to be a part of the
+                coding world. What im hoping to do within the future for myself is learn everything i can
+                about web development and start either teaching others about it or working for a company
+                that needs their website created or redone. Im looking forward to my success.</p>
+        </div>
         </div>
     </section>
 
@@ -172,10 +181,7 @@
                 <h2>Contact</h2>
             </header>
 
-            <p>Elementum sem parturient nulla quam placerat viverra
-                mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-                donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-                orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+            <p>Feel free to inquire about any question or comments you may have and I will get back to you as soon as I can.</p>
 
             <form method="post" action="#">
                 <div class="row">
@@ -184,8 +190,10 @@
                     <div class="12u$">
                         <textarea name="message" placeholder="Message"></textarea>
                     </div>
+                    <div class="tran">
                     <div class="12u$">
                         <input type="submit" value="Send Message" />
+                    </div>
                     </div>
                 </div>
             </form>
@@ -200,7 +208,7 @@
 
     <!-- Copyright -->
     <ul class="copyright">
-        <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li>&copy; 2016 danas web design</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
     </ul>
 
 </div>
