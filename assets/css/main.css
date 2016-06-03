@@ -2161,8 +2161,8 @@ button:active,
 }
 
 #main > section.one {
-	background-color: #81918E;
-	background-image: url("../../images/banner.jpg");
+	/*background-color: #81918E;*/
+	background-image: url("/images/stars.jpg");
 }
 
 #main > section.two {
@@ -2218,7 +2218,7 @@ button:active,
 	}
 
 	#main section.cover {
-		padding: 5em 0;
+		padding: 4.5em 0;
 	}
 
 }
@@ -2537,9 +2537,7 @@ button:active,
 
 }
 
-.pic {
-}
 
 .img-responsive {
-	max-width: 50%;
+	max-width: 70%;
 }

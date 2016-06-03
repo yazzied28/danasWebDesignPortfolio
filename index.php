@@ -22,7 +22,7 @@
         <div id="logo">
             <span class="image avatar48"><img src="images/LEGO.png" alt="" /></span>
             <h1 id="title">Dana Yazzie</h1>
-            <p>Junior Developer</p>
+            <p>Junior Web Developer</p>
         </div>
 
         <!-- Nav -->
@@ -71,45 +71,18 @@
     <!-- Intro -->
     <section id="top" class="one dark cover">
         <div class="container">
+            <img src="images/stars.jpg">
 
             <header>
-                <h2 class="alt">Hi! I'm Dana.</h2>
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="row">
-                                <img src="/images/LEGO.png" alt="Logo"
-                                     class="img-responsive img-circle pic center-block"/>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h3 class="text-center">Dana Yazzie</h3>
-
-                                    <p class="text-center">
-                                        danas web design
-                                    </p>
-
-                                    <p class="text-center">
-                                        <a href="mailto:redcloudsaboveus01@gmail.com">redcloudsaboveus01@gmail.com</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <h2 class="alt">danas web design</h2>
+                <div class="img-text">
+                    <img src="images/finalLogo.png" alt="logo" class="img-responsive img-circle pic displayed"/>
                 </div>
-
             </header>
-            </br>
+
             <footer>
                 <a href="#portfolio" class="button scrolly">Learn More</a>
             </footer>
-
-            </br>
-            </br>
-            </br>
-            </br>
-            </br>
         </div>
     </section>
 

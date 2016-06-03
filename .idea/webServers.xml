@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d54442b-8a3a-4144-bf24-0fe1e318bea2" name="danasWebDesignPortfolio" url="http://104.236.83.94">
+        <fileTransfer host="104.236.83.94" port="22" rootFolder="/var/www/html/" accessType="SFTP" password="dfd9dfdadfdfdfc4dfc1dfd3dfc3dfc6dfc5dfdcdfcfdfd3dfc5dfdf" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
