@@ -74,9 +74,9 @@
 
             <header>
                 <h2 class="alt">Hi! I'm Dana.</h2>
-                <div class="logo">
+                <div class="img-text">
 
-                    <img src="images/LEGO.png" alt="logo" class="img-responsive img-circle pic center-block"/>
+                    <img src="images/LEGO.png" alt="logo" class="img-responsive img-circle pic displayed"/>
 
                 </div>
 
