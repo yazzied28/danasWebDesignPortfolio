@@ -74,10 +74,29 @@
 
             <header>
                 <h2 class="alt">Hi! I'm Dana.</h2>
-                <div class="img-text">
 
-                    <img src="images/LEGO.png" alt="logo" class="img-responsive img-circle pic displayed"/>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="row">
+                                <img src="/images/LEGO.png" alt="Logo"
+                                     class="img-responsive img-circle pic center-block"/>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3 class="text-center">Dana Yazzie</h3>
 
+                                    <p class="text-center">
+                                        danas web design
+                                    </p>
+
+                                    <p class="text-center">
+                                        <a href="mailto:redcloudsaboveus01@gmail.com">redcloudsaboveus01@gmail.com</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </header>
