@@ -71,7 +71,7 @@
     <!-- Intro -->
     <section id="top" class="one dark cover">
         <div class="container">
-            <img src="images/stars.jpg">
+            
 
             <header>
                 <h2 class="alt">danas web design</h2>
