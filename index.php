@@ -9,10 +9,9 @@
     <link rel="stylesheet" href="assets/css/main.css" />
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <link rel="short icon" href="/images/LEGO2.ico"/>
 </head>
 <body>
-
-<p>Hello World</p>
 
 <!-- Header -->
 <div id="header">
@@ -21,7 +20,7 @@
 
         <!-- Logo -->
         <div id="logo">
-            <span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
+            <span class="image avatar48"><img src="images/LEGO.png" alt="" /></span>
             <h1 id="title">Dana Yazzie</h1>
             <p>Junior Developer</p>
         </div>
@@ -74,19 +73,24 @@
         <div class="container">
 
             <header>
-                <h2 class="alt">Hi! I'm Dana, a student in Cultivating Coders
-                    Nice to meet you. Coding is fun! You bet..</h2>
-                <p>How are you? well maybe you should click this next button.
-                    Danas Web Dev.
-                    </p>
+                <h2 class="alt">Hi! I'm Dana.</h2>
+                <div class="logo">
 
-                <p>Hello World</p>
+                    <img src="images/LEGO.png" alt="logo" class="img-responsive img-circle pic center-block"/>
+
+                </div>
+
             </header>
-
+            </br>
             <footer>
-                <a href="#portfolio" class="button scrolly">Take a look</a>
+                <a href="#portfolio" class="button scrolly">Learn More</a>
             </footer>
 
+            </br>
+            </br>
+            </br>
+            </br>
+            </br>
         </div>
     </section>
 
@@ -105,13 +109,13 @@
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 1</h3>
+                            <h3>Ipsum Feugiat</h3>
                         </header>
                     </article>
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 2</h3>
+                            <h3>Rhoncus Semper</h3>
                         </header>
                     </article>
                 </div>
@@ -119,13 +123,13 @@
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 3</h3>
+                            <h3>Magna Nullam</h3>
                         </header>
                     </article>
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 4</h3>
+                            <h3>Natoque Vitae</h3>
                         </header>
                     </article>
                 </div>
@@ -133,13 +137,13 @@
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 5</h3>
+                            <h3>Dolor Penatibus</h3>
                         </header>
                     </article>
                     <article class="item">
                         <a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
                         <header>
-                            <h3>Design 6</h3>
+                            <h3>Orci Convallis</h3>
                         </header>
                     </article>
                 </div>
@@ -158,18 +162,12 @@
 
             <a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 
-            <p>Ya'at'eeh, shi ei Dana Yazzie yinishye. Hello, my name is Dana. Im currently a Navajo student take a coding class.
-                I grew up in Carson, NM located about 22 miles from Bloomfield, NM. Growing up I wanted to learn everything i could
-                so i absorbed from my dad and my elders as best as i could; leading me to great storytelling and learning from this
-                place we call world. I then graduated from Bloomfield High School in 2011. Ive attended UNM for a year hoping to
-                major in Biology but i decided to change my major to Environmental Science. Ive been helping my church as well since then.
-                I've been to alot of places; until now i have settled in Gallup, NM. One day i received a call from my priest who
-                mentioned a totally new thing to me which was computer coding. I took the deal and decided to go for it becuase at
-                that time it seemed interesting and also i wanted to learn something new. Since Day 1 of this 8-week bootcamp course
-                with the Cultivating Coders program in Farmington, NM it has been an awesome experience for me as well as the others.
-                Im glad to be a part of the coding world. What im hoping to do within the future for myself is learn everything i
-                can about web development and start either teaching others about it or working for a company that needs their website
-                created or redone. Im looking forward to my success..</p>
+            <p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
+                ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
+                laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem
+                parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper
+                dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec
+                ornare iaculis.</p>
 
         </div>
     </section>
@@ -182,7 +180,10 @@
                 <h2>Contact</h2>
             </header>
 
-            <p>Contact coming soon...</p>
+            <p>Elementum sem parturient nulla quam placerat viverra
+                mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
+                donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
+                orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
 
             <form method="post" action="#">
                 <div class="row">
