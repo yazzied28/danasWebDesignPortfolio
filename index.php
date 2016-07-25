@@ -20,7 +20,7 @@
 
         <!-- Logo -->
         <div id="logo">
-            <span class="image avatar48"><img src="images/LEGO2.ico" alt="" /></span>
+            <span class="image avatar48"><img src="images/dwd.ico" alt="" /></span>
             <h1 id="title">Dana Yazzie</h1>
             <p>Junior Web Developer</p>
         </div>
@@ -58,7 +58,7 @@
             <li><a href="https://www.facebook.com/danaswebdesigns/?skip_nax_wizard=true" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
             <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
             <li><a href="https://www.instagram.com/danaswebdesigns/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-            <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+            <li><a href="mailto:redcloudsaboveus01@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
         </ul>
 
     </div>
@@ -76,7 +76,7 @@
             <header>
                 <h2 class="alt">danas web design</h2>
                 <div class="img-text">
-                    <img src="images/finalLogo.png" alt="logo" class="img-responsive img-circle pic displayed"/>
+                    <img src="images/new2.png" alt="logo" class="img-responsive img-circle pic displayed"/>
                 </div>
             </header>
 
