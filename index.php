@@ -151,18 +151,19 @@
             <header>
                 <h2>About Me</h2>
             </header>
+
             <div class="about">
+                <a href="#" class="image featured"><img src="images/about.JPG" alt="" /></a>
 
-            <a href="#" class="image featured"><img src="images/about.JPG" alt="" /></a>
-
-            <p>Ya'at'eeh, shi ei Dana Yazzie yinishye. Hello, my name is Dana. Im currently a Navajo student take a coding class.
-                I grew up in Carson, NM located about 22 miles from Bloomfield, NM. Growing up I wanted to learn everything i
-                could so i absorbed from my dad and my elders as best as i could; leading me to great storytelling and learning
+                <p>Ya'at'eeh, shi ei Dana Yazzie yinishye. Ta'neszahnii nishli, Todichinii bashishchiin, Kinyaa'nii dashicheii, Naashashi dashinali.
+                Hello, my name is Dana. Im currently a Navajo student that has graduated from Cultivating Coders.
+                I grew up in Carson, NM located about 22 miles south from Bloomfield, NM. When i was growing up I wanted to learn everything i
+                could so i learned from my dad and my elders as best as i could; leading me to great storytelling and learning
                 from this place we call world. I then graduated from Bloomfield High School in 2011. Ive attended UNM for a year
                 hoping to major in Biology but i decided to change my major to Environmental Science. Ive been helping my church as well since then.
-                I've been to alot of places; until now i have settled in Gallup, NM.</br>
+                I've been to many places; until now i have settled in Gallup, NM.</br>
                 One day i received a call from my priest who mentioned a totally new thing
-                to me which was computer coding. I took the deal and decided to go for it becuase at
+                to me which was computer coding. I took the deal and decided to go for it because at
                 that time it seemed interesting and also i wanted to learn something new. Since Day 1
                 of this 8-week bootcamp course with the Cultivating Coders program in Farmington, NM it
                 has been an awesome experience for me as well as the others. Im glad to be a part of the
@@ -209,7 +210,7 @@
 
     <!-- Copyright -->
     <ul class="copyright">
-        <li>&copy; 2016 danas web design</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        <li>&copy; 2016 danas web design</li><li>Design: <a href="">HTML5 UP</a></li>
     </ul>
 
 </div>
