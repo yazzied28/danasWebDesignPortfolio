@@ -1,4 +1,23 @@
-<!DOCTYPE HTML>
+<?php
+
+if($_POST["submit"]) {
+    $recipient="redcloudsaboveus01@gmail.com";
+    $subject="Form to email message";
+    $sender=$_POST["sender"];
+    $senderEmail=$_POST["senderEmail"];
+    $message=$_POST["message"];
+
+    $mailBody="Name: $sender\nEmail:
+    $senderEmail\n\n$message";
+
+    mail($recipient, $subject, $mailBody, "From:
+    $sender <$senderEmail>");
+
+    $thankYou="<p>Thank You! Your message has been
+sent.</p>";
+}
+
+?><!DOCTYPE HTML>
 
 <html>
 <head>
@@ -174,7 +193,6 @@
         </div>
         
     </section>
-
     <!-- Contact -->
     <section id="contact" class="four">
         <div class="container">
@@ -185,7 +203,7 @@
 
             <p>Feel free to inquire about any question or comments you may have and I will get back to you as soon as I can.</p>
 
-            <form method="post" action="#">
+            <form method="post" action="index.php">
                 <div class="row">
                     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
                     <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
@@ -193,16 +211,15 @@
                         <textarea name="message" placeholder="Message"></textarea>
                     </div>
                     <div class="tran">
-                    <div class="12u$">
-                        <input type="submit" value="Send Message" />
-                    </div>
+                        <div class="12u$">
+                            <input type="submit" value="Send Message" />
+                        </div>
                     </div>
                 </div>
             </form>
 
         </div>
     </section>
-
 </div>
 
 <!-- Footer -->
