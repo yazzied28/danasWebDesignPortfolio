@@ -1,24 +1,4 @@
-<?php
-
-if($_POST["submit"]) {
-    $recipient="redcloudsaboveus01@gmail.com";
-    $subject="Form to email message";
-    $sender=$_POST["sender"];
-    $senderEmail=$_POST["senderEmail"];
-    $message=$_POST["message"];
-
-    $mailBody="Name: $sender\nEmail:
-    $senderEmail\n\n$message";
-
-    mail($recipient, $subject, $mailBody, "From:
-    $sender <$senderEmail>");
-
-    $thankYou="<p>Thank You! Your message has been
-sent.</p>";
-}
-
-?><!DOCTYPE HTML>
-
+<!DOCTYPE HTML>
 <html>
 <head>
     <title>Dana's Web Design</title>
@@ -90,7 +70,7 @@ sent.</p>";
     <!-- Intro -->
     <section id="top" class="one dark cover">
         <div class="container">
-            
+
 
             <header>
                 <h2 class="alt">danas web design</h2>
@@ -191,11 +171,14 @@ sent.</p>";
                 that needs their website created or redone. Im looking forward to my success.</p>
         </div>
         </div>
-        
+
     </section>
     <!-- Contact -->
     <section id="contact" class="four">
         <div class="container">
+            <div class="panel">
+                errors
+            </div>
 
             <header>
                 <h2>Contact</h2>
